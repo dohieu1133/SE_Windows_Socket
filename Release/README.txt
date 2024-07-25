@@ -40,3 +40,5 @@ Lưu ý:
  Có thể nhập đường dẫn tới file có hoặc không có ngằm trong cặp dấu ngoặc kép.
  Nếu đường dẫn có dấu cách thì phải đặt trong cặp dấu ngoặc kép.
  Đường dẫn có thể chưa tồn tại trước đó vì chương trình có thể khởi tạo.
+
+ B5: Trên máy A nhập "End" để đóng

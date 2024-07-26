@@ -201,7 +201,6 @@ int Server::Receive()
                     DWORD attributes = GetFileAttributesA(location_store_file);
                     if (attributes == INVALID_FILE_ATTRIBUTES)
                     {
-                        // Thư mục không tồn tại, hãy tạo nó
                         if (CreateDirectoryA(location_store_file, NULL))
                         {
                             printf("Created directory %s\n", location_store_file);
